@@ -1,7 +1,5 @@
 # pythonlab
 ```
-
-
 name: prakash
 programe: b-tech
 section:n
